@@ -1,0 +1,22 @@
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
+.reveal section .title-main {
+  font-size: 64px;
+  font-weight: bold;
+}
+
+.reveal section .title-sub {
+  font-size: 56px;
+  font-weight: bold;
+}
+
+.reveal section p {
+  font-size: 36px;
+}
+
+.reveal section li {
+  font-size: 36px;
+}

@@ -48,7 +48,7 @@ Python ~ Flask ~ Django ~ Swagger
 <p class="title-sub">環境準備</p>
 
 ```sh
-$ docker run -p 8000:8000 -v $(pwd):/home -it python /bin/bash
+$ docker run -p 8000:8000 -v `pwd`:/home -it python /bin/bash
 root@ContainerId:/ python -V
 Python 3.6.1
 ```
